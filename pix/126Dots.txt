@@ -1,0 +1,4 @@
+Poser: 7 x 18 = 126
+Math: 9 elements:  Pick 4
+  - 9 * 8 * 7 * 6
+  - 3024

@@ -13,7 +13,8 @@ import pygame
 import random
 import time
 # from Face   import squareFace as Cell
-from Glyphs import glyph as Cell
+from aa_template   import widget as Cell
+# from Glyphs import glyph as Cell
 from colors import c
 WHITE = c().WHITE
 BLACK = c().BLACK
